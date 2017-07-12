@@ -1,17 +1,16 @@
-latitude: 40.7507385
-longitude: -73.97681210000002
-name: "Paradise Hotel"
-email: "info@traveltripper.com"
-phone_number: "1-212-683-6161"
-  
+---
+latitude: 49.75542
+longitude: 6.63691
+name: ibis Styles Trier
+email: steffan@traveltripper.io
+phone_number: "--"
 address:
-  city: "New York"
-  country: "United States"
-  state: "New York"
-  street1: "370 Lexington Ave"
-  street2: "Suite 1601"
-  zip_code: "10017"
-  
-_hotel_id: KEY24N #KEY24N, TTDEMO, HODE
-_portal_id: 24northhotel #24northhotel, demo, demohotel
-  
+  street1: Metzelstrasse 12
+  street2: ''
+  state: ''
+  city: Trier
+  country: 
+  zip_code: '54290'
+_hotel_id: IBI790
+_portal_id: required-but-empty
+_root_path: https://qa4.ttaws.com/rt
