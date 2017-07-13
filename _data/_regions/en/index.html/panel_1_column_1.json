@@ -1,6 +1,6 @@
 [
   {
     "_template": "html",
-    "content": "<h3>About City Hotel</h3>\n<h2>Welcome to City Hotel Canary Wharf London</h2>\n<h4>Follow Us</h4>\n<p>Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on.</p>\n<p><a class=\"button\" href=\"#\">Contact Us</a></p>\n<p><a class=\"button\" href=\"#\">TEST</a></p>"
+    "content": "<h3>About City Hotel</h3>\n<h2>Welcome to City Hotel Canary Wharf London</h2>\n<h4>Follow Us&nbsp;</h4>\n<p style=\"text-align: right;\">Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on.</p>\n<p style=\"text-align: center;\"><a class=\"button\" href=\"#\">Contact Us</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><img id=\"1499984645387\" class=\" \" style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"assets/stock_images/working-in-bed.jpg\" width=\"284\" height=\"189\" /></p>"
   }
 ]
