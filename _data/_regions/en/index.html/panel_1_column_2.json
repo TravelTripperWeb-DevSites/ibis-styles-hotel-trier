@@ -1,6 +1,6 @@
 [
   {
     "_template": "html",
-    "content": "<p><img id=\"1499982662253\" class=\"cover\" src=\"assets/stock_images/office.jpg\" width=\"594\" height=\"396\" /></p>"
+    "content": "<p class=\"image-cover-container\"><img id=\"1499982662253\" class=\"cover\" style=\"width: auto; height: 100%; margin-left: 240px;\" src=\"assets/stock_images/office.jpg\" width=\"594\" height=\"396\" /></p>"
   }
 ]
