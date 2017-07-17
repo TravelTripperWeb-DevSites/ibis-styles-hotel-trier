@@ -1,16 +1,16 @@
 ---
-latitude: 49.75542
-longitude: 6.63691
-name: ibis Styles Trier
+latitude: '49.75542'
+longitude: '6.63691'
+name: Innisfallen Hotel
 email: steffan@traveltripper.io
 phone_number: "--"
 address:
-  street1: Metzelstrasse 12
+  street1: Fossa, Killarney
   street2: ''
   state: ''
-  city: Trier
-  country: 
-  zip_code: '54290'
+  city: Co. Kerry
+  country: Ireland
+  zip_code: V93 CR90
 _hotel_id: IRETIK
 _portal_id: innisfallenhotel
 _root_path: 
