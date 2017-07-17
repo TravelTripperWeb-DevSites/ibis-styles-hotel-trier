@@ -11,6 +11,6 @@ address:
   city: Trier
   country: 
   zip_code: '54290'
-_hotel_id: IBI790
-_portal_id: required-but-empty
-_root_path: https://qa4.ttaws.com/rt
+_hotel_id: IRETIK
+_portal_id: innisfallenhotel
+_root_path: 
