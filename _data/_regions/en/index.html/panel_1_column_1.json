@@ -1,6 +1,6 @@
 [
   {
     "_template": "html",
-    "content": "<h3>About City Hotel</h3>\n<h2>Welcome to City Hotel Canary Wharf London</h2>\n<h4>Follow Us&nbsp;</h4>\n<p style=\"text-align: right;\">Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on. Here's a paragraph of text that goes on and on.</p>\n<p style=\"text-align: center;\"><a class=\"button\" href=\"#\">Contact Us</a></p>\n<p>&nbsp;</p>"
+    "content": "<h3>Formerly the Travel Inn Killarney</h3>\n<h2>FOSSA, Killarney</h2>\n<h4>Superb four star accommodation at affordable prices&nbsp;</h4>\n<div>\n<div data-region=\"en/index.html/about_us_col_1.json\" data-region-type=\"html\" data-region-classes=\"\">\n<div data-ped-index=\"0\" data-ped-type=\"html\">\n<p>Set amidst Killarney's breath-taking landscape, overlooking the world famous Lakes of Killarney and conveniently located on the gateway to the stunning Ring of Kerry.</p>\n<p>&nbsp;</p>\n</div>\n</div>\n</div>\n<div>&nbsp;</div>\n<p style=\"text-align: right;\">&nbsp;</p>"
   }
 ]
