@@ -1,10 +1,23 @@
 {
-  "name": "City View",
+  "name": "Exterior",
   "image": {
-    "url": "/assets/stock_images/city-view.jpg",
-    "url_large": "",
-    "url_medium": "",
-    "alt_text": "City View"
+    "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091428/exterior-sign3.jpg",
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091428/large_exterior-sign3.jpg",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091428/medium_exterior-sign3.jpg",
+    "alt_text": "City View",
+    "path": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091428/exterior-sign3.jpg",
+    "file_type": "image/jpeg",
+    "name": "exterior-sign3",
+    "tags": "",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091428/thumb_exterior-sign3.jpg",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091428/small_exterior-sign3.jpg",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091428/xsmall_exterior-sign3.jpg",
+    "width": 2400,
+    "height": 1600,
+    "file_size": 1703392,
+    "alt": "Innisfallen Hotel Exterior",
+    "caption": "",
+    "description": ""
   },
   "order": 2
 }

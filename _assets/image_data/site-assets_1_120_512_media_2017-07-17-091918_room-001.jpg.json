@@ -1,0 +1,17 @@
+{
+  "name": "room-001",
+  "file_name": "room-001.jpg",
+  "file_type": "image/jpeg",
+  "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091918/room-001.jpg",
+  "date_added": "2017-07-17-091922",
+  "tags": "",
+  "file_size": 735346.0,
+  "width": 2400,
+  "height": 1600,
+  "description": "",
+  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091918/large_room-001.jpg",
+  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091918/medium_room-001.jpg",
+  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091918/small_room-001.jpg",
+  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091918/xsmall_room-001.jpg",
+  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091918/thumb_room-001.jpg"
+}
