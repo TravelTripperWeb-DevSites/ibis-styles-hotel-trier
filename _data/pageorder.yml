@@ -7,8 +7,8 @@
 "/offers/": 2
 paths:
 - "/"
-- "/about/"
 - "/rooms/"
+- "/about/"
 - "/offers/"
 - "/dining/"
 - "/gallery/"
