@@ -5,3 +5,10 @@
 "/dining/": 3
 "/gallery/": 4
 "/offers/": 2
+paths:
+- "/"
+- "/about/"
+- "/rooms/"
+- "/offers/"
+- "/dining/"
+- "/gallery/"
