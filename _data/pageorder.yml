@@ -1,11 +1,5 @@
 ---
-"/": 0
-"/about/": 1
-"/rooms/": 5
-"/dining/": 3
-"/gallery/": 4
-"/offers/": 2
-paths:
+:paths:
 - "/"
 - "/rooms/"
 - "/about/"
