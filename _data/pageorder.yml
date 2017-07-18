@@ -1,8 +1,8 @@
 ---
 :paths:
 - "/"
-- "/rooms/"
 - "/about/"
+- "/rooms/"
 - "/offers/"
 - "/dining/"
 - "/gallery/"
