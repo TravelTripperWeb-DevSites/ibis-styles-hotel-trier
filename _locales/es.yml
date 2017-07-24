@@ -4,3 +4,5 @@ es:
     book_now_button: BOOK AHORA
   brg:
     label: BRG
+  footer:
+    address_header: Indiricion
