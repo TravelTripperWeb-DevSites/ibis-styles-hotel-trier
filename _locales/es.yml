@@ -2,3 +2,5 @@
 es:
   header:
     book_now_button: BOOK AHORA
+  brg:
+    label: BRG
