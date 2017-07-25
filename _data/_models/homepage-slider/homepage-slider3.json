@@ -1,10 +1,23 @@
 {
-  "name": "Tower Bridge",
+  "name": "Pub",
   "image": {
-    "url": "/assets/stock_images/tower-bridge.jpg",
-    "url_large": "",
-    "url_medium": "",
-    "alt_text": "Tower Bridge at night"
+    "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091907/pub2.jpg",
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091907/large_pub2.jpg",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091907/medium_pub2.jpg",
+    "alt_text": "Tower Bridge at night",
+    "alt": "Pub",
+    "path": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091907/pub2.jpg",
+    "file_type": "image/jpeg",
+    "name": "pub2",
+    "tags": "",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091907/thumb_pub2.jpg",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091907/small_pub2.jpg",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091907/xsmall_pub2.jpg",
+    "width": 2400,
+    "height": 1600,
+    "file_size": 1281915,
+    "caption": "",
+    "description": ""
   },
   "order": 3
 }

@@ -1,6 +1,7 @@
+---
 en:
   footer:
-    address_header: Address
+    address_header: Addresstest!
     contact_header: Contact
     phone_label: T
     email_label: E
@@ -17,3 +18,5 @@ en:
   offers:
     buttons:
       book_now: Book Offer
+  header:
+    book_now_button: BOOK NOW

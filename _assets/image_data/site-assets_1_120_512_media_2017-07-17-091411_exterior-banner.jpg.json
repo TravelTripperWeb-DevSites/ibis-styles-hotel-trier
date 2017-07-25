@@ -1,0 +1,17 @@
+{
+  "name": "exterior-banner",
+  "file_name": "exterior-banner.jpg",
+  "file_type": "image/jpeg",
+  "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091411/exterior-banner.jpg",
+  "date_added": "2017-07-17-091415",
+  "tags": "",
+  "file_size": 803509.0,
+  "width": 1438,
+  "height": 700,
+  "description": "",
+  "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091411/large_exterior-banner.jpg",
+  "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091411/medium_exterior-banner.jpg",
+  "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091411/small_exterior-banner.jpg",
+  "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091411/xsmall_exterior-banner.jpg",
+  "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_120_512/media/2017-07-17-091411/thumb_exterior-banner.jpg"
+}
